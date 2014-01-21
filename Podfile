@@ -1,0 +1,5 @@
+platform :ios, '6.1'
+pod 'AFNetworking', '~> 1.3.3'
+pod 'Reachability', '~> 3.1.1'
+pod 'MBProgressHUD', '~> 0.6'
+pod 'ATMHud', '~> 0.0.1'

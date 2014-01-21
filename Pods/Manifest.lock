@@ -1,0 +1,19 @@
+PODS:
+  - AFNetworking (1.3.3)
+  - ATMHud (0.0.1)
+  - MBProgressHUD (0.8)
+  - Reachability (3.1.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.3.3)
+  - ATMHud (~> 0.0.1)
+  - MBProgressHUD (~> 0.6)
+  - Reachability (~> 3.1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 61fdd49e2ffe6380378df37b3b6e70630bb9dd66
+  ATMHud: d7cca11588751e48b23e5e55bc118c1065970a9c
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+
+COCOAPODS: 0.29.0
