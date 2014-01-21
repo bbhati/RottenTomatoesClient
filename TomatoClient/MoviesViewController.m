@@ -62,7 +62,7 @@
     
     refresh.attributedTitle = [[NSAttributedString alloc] initWithString:@"Pull to Refresh"];
     
-    [refresh addTarget:self action:@selector(reload) forControlEvents:UIControlEventValueChanged];
+    [refresh addTarget:self action:@selector(setup) forControlEvents:UIControlEventValueChanged];
  
     self.refreshControl = refresh;
     
